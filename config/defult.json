@@ -1,4 +1,4 @@
 {
   "port": 5000,
-  "mongoUri": ""
+  "mongoUri": "mongodb+srv://aida:nevis2021@cluster0.ihcgx.mongodb.net/app?retryWrites=true&w=majority"
 }
